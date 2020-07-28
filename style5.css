@@ -1,0 +1,33 @@
+body {
+    width: 100%;
+    font-family: 'Segoe UI', Verdana, sans-serif;
+}
+
+section {
+    width: 80%;
+    padding: 40px;
+    margin: 50px;
+    border: 1px solid #b1b1b1;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 67px;
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+}
+
+.izquierda {
+    text-align: left;
+}
+
+.centro {
+    text-align: center;
+}
+
+.derecha {
+    text-align: right;
+}

@@ -1,0 +1,28 @@
+section {
+    width: 960px;
+    margin: 100px auto 0 auto;
+}
+
+span {
+    font-family: 'Segoe UI Emoji';
+}
+
+.mini {
+    font-size: 15px;
+}
+
+.chico {
+    font-size: 30px;
+}
+
+.mediano {
+    font-size: 45px;
+}
+
+.grande {
+    font-size: 60px;    
+}
+
+.gigante {
+    font-size: 80px;
+}

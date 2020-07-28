@@ -1,0 +1,64 @@
+body {
+    background-color: #fafafa;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+section {
+    width: 250px;
+    margin: 30px;
+    padding: 30px;
+}
+
+ul {
+    color: #fafafa;
+    font-weight: bold;
+}
+
+h2 {
+    color: #424242;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+.pera {
+    background-color: #e1e36e;
+}
+
+.naranja {
+    background-color: #ff7b00;
+}
+
+.sandía {
+    background-color: #c63e47;
+}
+
+.uva {
+    background-color: #5a005a;
+}
+
+.cereza {
+    background-color: #c51d34;
+}
+
+.durazno {
+    background-color: #ffb678;
+}
+
+.melón {
+    background-color: #a9d171;
+}
+
+.ananá {
+    background-color: #f3d64f;
+}
+
+.coco {
+    background-color: #8c4430;
+}
+
+.tomate {
+    background-color: #ff2c06;
+}
