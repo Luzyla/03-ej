@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
+
+body {
+    background-color: #fafafa;
+    font-family: 'Vidaloka';
+    color: #424242;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 500;
+    font-family: 'Permanent Marker';
+}
+
+p {
+    color: grey;
+    font-size: 14px;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: #48d1cc;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+section {
+    width: 900px;
+    margin-left: 50px;
+}
