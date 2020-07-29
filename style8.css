@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,600&family=Vidaloka&display=swap');
+
+body {
+    background-color: #fafafa;
+    width: 100%;
+    font-family: 'Nunito sans';
+    color: #424242;
+}
+
+section {
+    width: 80%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 900;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    padding: 5px;
+    height: 45px;
+    text-align: center;
+    font-size: 20px;
+}
+
+ul {
+    padding: 0;
+}
+
+.termómetro {
+    width: 500px;
+    height: auto;
+    margin: 10px;
+    padding: 30px;
+    box-sizing: border-box;
+    border: 1px solid #dbdad6;
+    border-radius: 15px;
+}
+
+#temp-0, #temp-50 {
+    font-weight: bold;
+}
+
+/*----------------------------------
+        ESCALA DE TEMPERATURAS
+----------------------------------*/
+
+#temp-0 {
+    background-color: #175289;
+    color: #fafafa;
+}
+
+#temp-5 {
+    background-color: #31639c;
+    color: #fafafa;
+}
+
+#temp-10 {
+    background-color: #597bac;
+}
+
+#temp-15 {
+    background-color: #9dadcd;
+}
+
+#temp-20 {
+    background-color: #bec8de;
+}
+
+#temp-25 {
+    background-color: #ffe696;
+}
+
+#temp-30 {
+    background-color: #ffde72;
+}
+
+#temp-35 {
+    background-color: #ffce00;
+}
+
+#temp-40 {
+    background-color: #ff9023;
+}
+
+#temp-45 {
+    background-color: #e66700;
+    color: #fafafa;
+}
+
+#temp-50 {
+    background-color: #f8353a;
+    color: #fafafa;
+}
+

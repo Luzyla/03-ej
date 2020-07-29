@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,600&family=Vidaloka&display=swap');
+
+body {
+    background-color: #fafafa;
+    width: 100%;
+    font-family: 'Nunito sans';
+    color: #424242;
+}
+
+section {
+    width: 80%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+li {
+    list-style-type: none;
+    padding: 5px;
+    height: 45px;
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+}
+
+.paletas {
+    width: 500px;
+    height: auto;
+    margin: 10px;
+    padding: 30px;
+    box-sizing: border-box;
+    border: 1px solid #dbdad6;
+    border-radius: 15px;
+}
+
+/*----------------------------------
+        PALETA HEXADECIMAL
+----------------------------------*/
+
+#hex-1 {
+    background-color: #99b898;
+}
+
+#hex-2 {
+    background-color: #feceab;
+}
+
+#hex-3 {
+    background-color: #ff847c;
+}
+
+#hex-4 {
+    background-color: #e84a5f;
+    color: #fafafa;
+}
+
+#hex-5 {
+    background-color: #6f4a8e;
+    color: #fafafa;
+}
+
+/*----------------------------------
+            PALETA RGB
+----------------------------------*/
+
+#rgb-1 {
+    background-color: rgb(231, 48, 91);
+    color: rgb(250,250,250);
+}
+
+#rgb-2 {
+    background-color: rgb(226, 151, 156);
+    color: rgb(250,250,250);
+}
+
+#rgb-3 {
+    background-color: rgb(247, 245, 221);
+}
+
+#rgb-4 {
+    background-color: rgb(155, 222, 172);
+}
+
+#rgb-5 {
+    background-color: rgb(255, 193, 250);
+}
+
+/*----------------------------------
+            PALETA HSL
+----------------------------------*/
+
+#hsl-1 {
+    background-color: hsl(234,44%,66%);
+    color: hsl(0,0%,98%);
+}
+
+#hsl-2 {
+    background-color: hsl(111,100%,96%);
+}
+
+#hsl-3 {
+    background-color: hsl(153,58%,66%);
+}
+
+#hsl-4 {
+    background-color: hsl(165,50%,26%);
+    color: hsl(0,0%,98%);
+}
+
+#hsl-5 {
+    background-color: hsl(71,82%,25%);
+    color: hsl(0,0%,98%);
+}

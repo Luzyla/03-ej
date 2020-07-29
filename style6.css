@@ -1,5 +1,5 @@
 body {
-    background-color: #fafafa;
+    background-color: #e7ebda;
     font-family: Verdana, Tahoma, sans-serif;
 }
 
@@ -21,6 +21,9 @@ h2 {
 
 li {
     text-align: center;
+    height: 40px;
+    list-style-type: square;
+    list-style-position: inside;
 }
 
 .pera {
